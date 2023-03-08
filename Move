@@ -1,0 +1,3 @@
+## How to move a file to a folder 
+# mv filename destination 
+# mv week3 /tmp
